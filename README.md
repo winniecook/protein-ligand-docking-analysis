@@ -14,8 +14,8 @@ This project provides a Python-based tool for analyzing protein-ligand docking r
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/hiv1-protease-docking-analysis.git
-   cd hiv1-protease-docking-analysis
+   git clone https://github.com/winniecook/protein-ligand-docking-analysis.git
+   cd protein-ligand-docking-analysis
    ```
 
 2. Install the required dependencies:
@@ -29,7 +29,7 @@ This project provides a Python-based tool for analyzing protein-ligand docking r
 
 2. Run the analysis script:
    ```
-   python hiv1_protease_docking_analysis.py
+   python docking-analysis-script-4.py
    ```
 
 3. The script will generate two output files:
